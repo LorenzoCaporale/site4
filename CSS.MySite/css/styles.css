@@ -1,0 +1,122 @@
+body{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Ruda', sans-serif;
+    color:class=#40514E;
+
+}
+h1{
+    margin-top: 0;
+    font-family: 'Acme', sans-serif;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Philosopher', sans-serif;
+    color: #66BFBF;
+    padding: 10px;
+}
+.top-container{
+    margin: 0;
+    background-color: #cbf1f5;
+}
+
+.studente{
+    text-decoration: underline;
+}
+.top-cloud{
+    width: 150px;
+    height: 100px; 
+    position: relative;
+    left: 300px;
+} 
+.bottom-cloud{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    left: 400px;
+}
+.montain{
+    width: 500px;
+    height: 450px;
+}   
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 200%;
+}
+.programmer-sticker{
+    float: left;
+    margin-right: 30px;
+}
+.trip-image{
+    float: right;
+    margin-left: 30px;
+}
+a{
+    color:#11999E;
+    font-family: 'Ruda', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+    color:#EAF6F6;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    color:class=#40514E;
+    width: 30%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.copyright{
+    color:#EAF6F6;
+    size: 0.75rem;
+    padding:20px 0;
+}    
+p{
+    line-height: 200%;
+}
+hr{
+    border: dotted gray 6px;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Ruda', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+   
